@@ -19,7 +19,7 @@ mkdir [nome-do-projeto]
 ```
 ### 2. Criar diretório scr dentro da pasta do projeto:
 ```sh
-mkdir scr && cd scr && code .
+mkdir scr && code .
 ```
 ### 3. Criar arquivo `index.html` dentro da pasta raiz do projeto;
 ### 4. Criar arquivo `main.js` dentro da pasta `scr`;
