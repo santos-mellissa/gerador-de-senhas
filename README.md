@@ -25,7 +25,7 @@ mkdir scr && code .
 ### 4. Criar arquivo `main.js` dentro da pasta `scr`;
 ### 5. Importar o arquivo `main.js` no arquivo `index.html`:
 ```html
-<script scr="/scr/main.js" type="module">
+<script type="module" src="./src/main.js"></script>
 ```
 ### 6. Criar o projeto com NPM:
 ```sh
